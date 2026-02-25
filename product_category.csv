@@ -1,0 +1,102 @@
+﻿ProductID,ProductName,Category,Supplier,Price_Point
+P01,UltraTab 10,Electronics,TechCorp,High
+P02,Basic Stylus,Electronics,TechCorp,Low
+P03,Leather Case,Accessories,StyleInc,Medium
+P04,Office Chair,Furniture,,High
+P05,4K Monitor,ELECTRONICS,VisionWorks,High
+P01,UltraTab 10,Electronics,TechCorp,High
+P06,Desk Lamp,Furniture,LightCo,Low
+P07,,General,MiscCo,Medium
+P08,Gaming Mouse,Elec.,GameTech,Medium
+P09,USB-C Cable,Accessories,TechCorp,Low
+P10,Standing Desk,FURNITURE,ErgoLife,High
+P11,Bluetooth Spkr*,electronics,SoundMax,Medium
+P12,Webcam 1080p,Electronics,VisionWorks,Medium
+P13,Laptop Stand,Accessories,ErgoLife,Medium
+P14,Mech Keyboard,Elec.,GameTech,High
+P15,Desk Mat,Accessories,,Low
+P16,Power Bank,Electronics,TechCorp,Medium
+P17,SSD 1TB,ELECTRONICS,SpeedData,High
+P18,Monitor Arm,Furniture,ErgoLife,Medium
+P19,HDMI Cable,Accessories,TechCorp,Low
+P20,Wireless Buds,electronics,SoundMax,Medium
+P21,Smart Watch,Electronics,TechCorp,High
+P22,Tablet Pen,Electronics,TechCorp,Low
+P23,Backpack,Accessories,StyleInc,Medium
+P24,Executive Desk,Furniture,ErgoLife,High
+P25,Curved Monitor,ELECTRONICS,VisionWorks,High
+P26,Floor Lamp,Furniture,LightCo,Low
+P27,Notebook,General,MiscCo,Low
+P28,Ergonomic Mouse,Elec.,GameTech,Medium
+P29,Thunderbolt Dock,Electronics,TechCorp,High
+P30,Privacy Screen,Accessories,,Medium
+P31,Headset,electronics,SoundMax,Medium
+P32,Smart Plug,Electronics,TechCorp,Low
+P33,Cable Mgmt,Accessories,StyleInc,Low
+P34,Filing Cabinet,Furniture,,Medium
+P35,Projector,ELECTRONICS,VisionWorks,High
+P36,LED Strip,Furniture,LightCo,Low
+P37,Pencil Set,General,MiscCo,Low
+P38,Controller,Elec.,GameTech,Medium
+P39,Wi-Fi Router,Electronics,TechCorp,High
+P40,Keycap Set,Accessories,StyleInc,Medium
+P41,Mic Arm,electronics,SoundMax,Medium
+P42,Ring Light,Electronics,VisionWorks,Medium
+P43,Hard Drive,Electronics,SpeedData,High
+P44,Guest Chair,Furniture,LightCo,Medium
+P45,Paper Shredder,General,MiscCo,Medium
+P46,Stylus Tips,Electronics,TechCorp,Low
+P47,Tablet Cover,Accessories,StyleInc,Medium
+P48,Dual Monitor Mt,Furniture,ErgoLife,High
+P49,Ethernet Cable,Accessories,TechCorp,Low
+P50,Earphone Case,Accessories,SoundMax,Low
+P01,UltraTab 10,Electronics,TechCorp,High
+P02,Basic Stylus,Electronics,TechCorp,Low
+P03,Leather Case,Accessories,StyleInc,Medium
+P04,Office Chair,Furniture,,High
+P05,4K Monitor,ELECTRONICS,VisionWorks,High
+P06,Desk Lamp,Furniture,LightCo,Low
+P07,,General,MiscCo,Medium
+P08,Gaming Mouse,Elec.,GameTech,Medium
+P09,USB-C Cable,Accessories,TechCorp,Low
+P10,Standing Desk,FURNITURE,ErgoLife,High
+P11,Bluetooth Spkr*,electronics,SoundMax,Medium
+P12,Webcam 1080p,Electronics,VisionWorks,Medium
+P13,Laptop Stand,Accessories,ErgoLife,Medium
+P14,Mech Keyboard,Elec.,GameTech,High
+P15,Desk Mat,Accessories,,Low
+P16,Power Bank,Electronics,TechCorp,Medium
+P17,SSD 1TB,ELECTRONICS,SpeedData,High
+P18,Monitor Arm,Furniture,ErgoLife,Medium
+P19,HDMI Cable,Accessories,TechCorp,Low
+P20,Wireless Buds,electronics,SoundMax,Medium
+P21,Smart Watch,Electronics,TechCorp,High
+P22,Tablet Pen,Electronics,TechCorp,Low
+P23,Backpack,Accessories,StyleInc,Medium
+P24,Executive Desk,Furniture,ErgoLife,High
+P25,Curved Monitor,ELECTRONICS,VisionWorks,High
+P26,Floor Lamp,Furniture,LightCo,Low
+P27,Notebook,General,MiscCo,Low
+P28,Ergonomic Mouse,Elec.,GameTech,Medium
+P29,Thunderbolt Dock,Electronics,TechCorp,High
+P30,Privacy Screen,Accessories,,Medium
+P31,Headset,electronics,SoundMax,Medium
+P32,Smart Plug,Electronics,TechCorp,Low
+P33,Cable Mgmt,Accessories,StyleInc,Low
+P34,Filing Cabinet,Furniture,,Medium
+P35,Projector,ELECTRONICS,VisionWorks,High
+P36,LED Strip,Furniture,LightCo,Low
+P37,Pencil Set,General,MiscCo,Low
+P38,Controller,Elec.,GameTech,Medium
+P39,Wi-Fi Router,Electronics,TechCorp,High
+P40,Keycap Set,Accessories,StyleInc,Medium
+P41,Mic Arm,electronics,SoundMax,Medium
+P42,Ring Light,Electronics,VisionWorks,Medium
+P43,Hard Drive,Electronics,SpeedData,High
+P44,Guest Chair,Furniture,LightCo,Medium
+P45,Paper Shredder,General,MiscCo,Medium
+P46,Stylus Tips,Electronics,TechCorp,Low
+P47,Tablet Cover,Accessories,StyleInc,Medium
+P48,Dual Monitor Mt,Furniture,ErgoLife,High
+P49,Ethernet Cable,Accessories,TechCorp,Low
+P50,Earphone Case,Accessories,SoundMax,Low
