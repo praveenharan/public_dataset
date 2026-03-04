@@ -1,0 +1,10 @@
+﻿TransactionID,CustomerID,ProductID,TransactionDate,Quantity,TotalAmount,StoreLocation
+T1001,C552,P01,01-15-26,2,45,Dallas
+T1002,C101,P05,01-16-26,1,120.5,Austin
+T1003,,P03,02-17-26,3,,Houston
+T1004,C882,P02,01-18-26,1,15.75,dallas
+T1005,C331,P01,01-19-26,2,45,DALLAS
+T1006,C442,P04,01-20-26,10,500,Remote
+T1007,C552,P01,01-15-26,2,45,Dallas
+T1008,C991,P08,???,2,60,Fort Worth
+T1009,C221,P02,01-22-26,-1,-15.75,Austin
