@@ -1,0 +1,501 @@
+﻿,first_name,last_name,city,state,gender,department,admission_type,visit_date,feedback,waiting_time
+0,Nichole,Hunt,Russellfort,Hawaii,Male,Oncology,Out Patient,04-08-99,Nutral,40
+1,Kelly,Dominguez,Johnsonchester,South Carolina,Male,Pediatrics,Out Patient,02-28-04,Good,90
+2,Tiffany,Henderson,Martinezfort,Maryland,Female,Emergency,Out Patient,11-17-21,Nutral,50
+3,Cody,Nguyen,South Michaelhaven,West Virginia,Other,Oncology,Out Patient,11-25-23,Nutral,30
+4,Crystal,Sharp,Lake Elizabethside,Wisconsin,Other,Cardiology,In Patient,05-28-00,Good,30
+5,Emily,Byrd,South Michaelland,Wisconsin,Female,Oncology,In Patient,06-16-96,Excellent,40
+6,Donald,Poole,Christopherchester,Minnesota,Male,Radiology,In Patient,04-19-12,Nutral,40
+7,Keith,Rubio,North Justin,Maryland,Other,Emergency,Out Patient,11-17-15,Nutral,50
+8,Stephen,Ibarra,Blackborough,Arkansas,Male,Emergency,In Patient,11-04-14,Good,50
+9,Jeffrey,Garcia,Hubbardtown,Utah,Female,Radiology,Out Patient,03-19-23,Excellent,50
+10,Jonathan,Stein,Thomasbury,Vermont,Female,Cardiology,In Patient,09-26-23,Nutral,90
+11,Madison,Joyce,Port Colleen,Rhode Island,Other,Emergency,In Patient,12-06-96,Good,90
+12,Troy,Johnson,Carrshire,Mississippi,Male,Cardiology,Out Patient,04-03-10,Good,40
+13,Shelley,Hammond,Port Valerie,Texas,Male,Oncology,Out Patient,12-14-14,Excellent,30
+14,Mark,Suarez,Rossland,Alabama,Male,Radiology,Out Patient,01-11-02,Excellent,40
+15,Jonathan,Thompson,Port Kimberly,Washington,Female,Cardiology,Out Patient,11-04-20,Excellent,30
+16,Lisa,Craig,South Brittanyview,Minnesota,Other,Cardiology,Out Patient,04-29-99,Nutral,50
+17,Morgan,Kemp,South Dakota,Texas,Other,Oncology,In Patient,05-24-13,Nutral,40
+18,Joanne,Walker,Rachelstad,Oregon,Male,Cardiology,In Patient,08-06-15,Good,90
+19,Travis,Anderson,Johnnystad,Maryland,Male,Pediatrics,In Patient,12-17-14,Good,40
+20,Derrick,Lam,Michaelview,West Virginia,Male,Pediatrics,In Patient,11-26-18,Excellent,50
+21,Dana,Schneider,Port Andrewshire,Georgia,Other,Emergency,Out Patient,09-17-19,Good,90
+22,Alexander,Garrison,North Joshuatown,Hawaii,Female,Oncology,In Patient,08-24-21,Excellent,90
+23,Sandra,Gibson,Mitchellburgh,Massachusetts,Other,Pediatrics,Out Patient,04-07-05,Good,90
+24,John,Young,East Autumntown,South Dakota,Other,Oncology,In Patient,04-13-10,Excellent,50
+25,Erica,Pope,West Emily,Arizona,Female,Cardiology,In Patient,04-02-23,Nutral,90
+26,Brooke,Hernandez,Vasquezhaven,Alabama,Female,Oncology,Out Patient,01-23-23,Excellent,90
+27,Belinda,Wagner,West Michaelshire,Alabama,Male,Oncology,In Patient,03-01-99,Good,30
+28,Tracy,Cochran,North Amandashire,Alaska,Other,Radiology,In Patient,07-23-07,Nutral,30
+29,Leslie,Matthews,Gonzalesville,Alaska,Female,Emergency,Out Patient,02-06-24,Excellent,50
+30,Michael,Shaffer,Riveraton,New Mexico,Other,Pediatrics,Out Patient,02-12-95,Good,40
+31,Charles,Nguyen,South Amber,Florida,Female,Oncology,In Patient,06-30-00,Good,50
+32,Vanessa,Grant,Watsonside,Pennsylvania,Male,Emergency,Out Patient,09-19-96,Excellent,90
+33,Sarah,Rodriguez,North Johnview,Nebraska,Male,Radiology,In Patient,06-02-01,Excellent,30
+34,Louis,Martinez,Hughesborough,South Dakota,Female,Emergency,In Patient,05-02-96,Good,30
+35,Andrew,Olson,Lake Danielle,Idaho,Other,Emergency,Out Patient,12-28-00,Excellent,50
+36,Ian,Dixon,North Joseph,Virginia,Other,Oncology,In Patient,03-23-00,Excellent,90
+37,Denise,Zimmerman,Ashleyport,New Hampshire,Female,Oncology,In Patient,02-06-96,Nutral,90
+38,Heather,Smith,Sarastad,California,Other,Radiology,Out Patient,12-16-99,Good,90
+39,Hannah,Kelley,West Rebecca,Vermont,Male,Oncology,In Patient,02-16-97,Nutral,40
+40,Andrew,Morris,Spencefurt,Oklahoma,Female,Cardiology,In Patient,08-04-18,Good,90
+41,Sara,Butler,Mitchellberg,Connecticut,Female,Emergency,Out Patient,11-07-11,Nutral,90
+42,William,Pittman,South Angela,Nevada,Other,Radiology,Out Patient,09-21-14,Nutral,50
+43,James,Davis,Williamshaven,Georgia,Male,Emergency,In Patient,09-19-19,Good,40
+44,Noah,Thompson,West Jorgeview,Nevada,Other,Radiology,In Patient,11-19-09,Nutral,40
+45,Pamela,Hubbard,West Sally,New Jersey,Female,Pediatrics,Out Patient,08-04-95,Nutral,30
+46,William,Gibson,Dianaside,Texas,Female,Pediatrics,In Patient,01-05-05,Nutral,90
+47,Alicia,Rodriguez,Princechester,Georgia,Male,Cardiology,In Patient,03-28-15,Excellent,30
+48,Robert,Mcfarland,Gutierrezfort,Oregon,Male,Oncology,In Patient,05-14-13,Excellent,30
+49,Allison,Wells,New Rebekah,Mississippi,Other,Radiology,In Patient,01-08-12,Excellent,40
+50,Pamela,White,Amberton,Maine,Other,Emergency,In Patient,10-03-14,Excellent,90
+51,James,Copeland,Port Aaron,Louisiana,Other,Cardiology,In Patient,01-26-24,Nutral,40
+52,Sarah,Hess,Martinberg,Arizona,Female,Pediatrics,Out Patient,08-20-08,Excellent,90
+53,Sarah,Wilson,Williamsstad,Maryland,Female,Pediatrics,Out Patient,10-11-06,Excellent,50
+54,Dale,Chavez,North Kelly,South Dakota,Female,Radiology,Out Patient,08-17-08,Excellent,50
+55,Kathy,Hernandez,Nunezshire,Kentucky,Male,Oncology,Out Patient,02-12-03,Nutral,30
+56,Charles,Larsen,Lake Lindsayport,Rhode Island,Other,Cardiology,In Patient,03-11-04,Nutral,40
+57,Ricardo,Hendricks,Lake Daniel,Colorado,Other,Pediatrics,Out Patient,11-22-14,Excellent,50
+58,Mark,Melton,Adamston,Texas,Female,Radiology,Out Patient,05-16-20,Good,50
+59,Kaylee,Rasmussen,New Jon,New Jersey,Other,Cardiology,In Patient,09-30-19,Good,30
+60,Katherine,Ritter,Port Kevin,Florida,Other,Pediatrics,Out Patient,09-15-22,Nutral,50
+61,Michael,Smith,South Travis,Georgia,Male,Oncology,In Patient,01-31-19,Nutral,30
+62,Amy,Torres,Lake Keithchester,Wisconsin,Male,Oncology,In Patient,06-07-06,Excellent,50
+63,Guy,Manning,North Darlene,Wyoming,Other,Emergency,Out Patient,07-06-16,Excellent,90
+64,Jonathan,Sanchez,East Caleb,West Virginia,Male,Oncology,In Patient,05-15-05,Nutral,50
+65,Julie,Young,Beckborough,Wyoming,Other,Emergency,Out Patient,04-04-12,Excellent,30
+66,Laura,Gould,Mirandahaven,New Mexico,Male,Pediatrics,Out Patient,10-05-17,Good,50
+67,Joseph,Taylor,Hawkinsmouth,Louisiana,Female,Cardiology,In Patient,11-08-07,Good,40
+68,Eileen,Wagner,Reynoldsfort,Oregon,Male,Emergency,In Patient,12-11-02,Nutral,50
+69,Tina,Cross,New Maryburgh,Colorado,Other,Oncology,In Patient,08-01-03,Good,40
+70,Garrett,Ryan,New Joseshire,Hawaii,Female,Radiology,Out Patient,10-04-12,Excellent,30
+71,Michael,Mosley,Port Richardberg,Delaware,Female,Pediatrics,In Patient,11-05-08,Excellent,90
+72,Christopher,Andrews,Aimeehaven,South Carolina,Male,Cardiology,Out Patient,01-24-96,Excellent,90
+73,John,Dean,Morganview,Arizona,Male,Pediatrics,Out Patient,03-20-19,Nutral,30
+74,Jamie,Morton,Louisbury,Pennsylvania,Male,Cardiology,In Patient,12-09-22,Excellent,30
+75,Diane,Klein,New Jeffreyton,Tennessee,Male,Radiology,Out Patient,04-19-13,Excellent,90
+76,Sandra,Jackson,Payneview,Massachusetts,Other,Emergency,Out Patient,12-05-96,Good,40
+77,James,Carson,South William,Texas,Other,Radiology,In Patient,11-21-03,Good,50
+78,Edwin,Durham,Lopezstad,Illinois,Male,Oncology,In Patient,10-21-01,Excellent,40
+79,Gabriella,Robbins,Holmesberg,Massachusetts,Other,Radiology,In Patient,12-29-10,Good,40
+80,Richard,Archer,Greenburgh,Oregon,Other,Oncology,In Patient,06-03-04,Good,50
+81,Craig,Roberson,New Jennifertown,Minnesota,Female,Emergency,Out Patient,10-08-16,Excellent,90
+82,Mark,Nielsen,Natashaside,Illinois,Male,Cardiology,Out Patient,12-01-09,Excellent,90
+83,Cassandra,Garza,Williamborough,Washington,Other,Oncology,In Patient,09-19-95,Nutral,50
+84,Jennifer,Cantu,New John,Utah,Female,Radiology,Out Patient,10-05-22,Excellent,90
+85,Sarah,Anderson,North Carriestad,Michigan,Other,Oncology,In Patient,06-23-98,Nutral,40
+86,Christopher,Miles,Allisonhaven,Minnesota,Female,Cardiology,In Patient,06-28-04,Excellent,30
+87,Angela,Sherman,South Elizabeth,Indiana,Female,Cardiology,In Patient,04-08-00,Nutral,30
+88,Donald,Garrison,South Tracyburgh,Colorado,Other,Pediatrics,Out Patient,06-07-12,Nutral,90
+89,Christopher,Jackson,West Steven,South Carolina,Other,Emergency,In Patient,12-03-18,Good,50
+90,Troy,Miller,Antonioborough,Massachusetts,Male,Oncology,Out Patient,01-09-13,Good,90
+91,Andrew,Krueger,Marcusborough,Maryland,Male,Oncology,Out Patient,05-27-05,Excellent,90
+92,Erin,Miller,Port Jeffreyside,Indiana,Female,Oncology,Out Patient,10-25-14,Nutral,30
+93,Daniel,Roberts,Lake Kellychester,Idaho,Female,Cardiology,In Patient,09-07-95,Nutral,50
+94,John,Andrews,Toddborough,Connecticut,Male,Radiology,In Patient,12-23-12,Good,30
+95,Megan,Schroeder,West Kathleen,Arkansas,Female,Pediatrics,In Patient,12-23-15,Nutral,90
+96,Daniel,Clark,East Michellestad,Oklahoma,Other,Emergency,Out Patient,07-22-04,Good,50
+97,John,Rodgers,Robertmouth,Louisiana,Other,Pediatrics,Out Patient,09-13-09,Excellent,90
+98,Carolyn,Fuentes,Nicholasville,South Carolina,Female,Radiology,In Patient,03-23-18,Good,40
+99,Dwayne,Mueller,North Aaron,Nebraska,Female,Cardiology,Out Patient,05-09-99,Good,50
+100,Susan,Hansen,Kathleenshire,Ohio,Female,Oncology,In Patient,11-29-02,Good,50
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,
